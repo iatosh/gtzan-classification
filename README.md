@@ -1,5 +1,5 @@
 # gtzan-classification
-Music genre classification based on GTZAN dataset. Only using Dence NN.
+Music genre classification based on GTZAN dataset. Using Pytorch.
 
 Dataset: [GTZAN](https://huggingface.co/datasets/marsyas/gtzan)
 
