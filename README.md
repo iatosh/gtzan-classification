@@ -1,6 +1,6 @@
 # gtzan.torch
 
-This repository contains Python scripts for music genre classification using the GTZAN dataset. This project aims to classify music into 10 genres based on audio features extracted from sound files.
+This repository contains Python scripts for music genre classification using the [GTZAN dataset](https://huggingface.co/datasets/marsyas/gtzan). This project aims to classify music into 10 genres based on audio features extracted from sound files.
 
 ## Overview
 
@@ -32,10 +32,6 @@ Creating an conda environment to install dependencies:
 ```sh
 conda env create -f environment.yml
 ```
-
-## Dataset
-
-This project uses the [GTZAN dataset](http://marsyasweb.info/downloads/datasets/gtzan/gtzan_genre_dataset.zip).
 
 ## Usage
 
