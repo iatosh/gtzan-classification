@@ -1,5 +1,7 @@
 # gtzan.torch
 
+[![Accuracy](https://img.shields.io/badge/Accuracy-91.66%25-green)](https://img.shields.io/badge/Accuracy-91.66%25-green)
+
 This repository contains Python scripts for music genre classification using the [GTZAN dataset](https://huggingface.co/datasets/marsyas/gtzan). This project aims to classify music into 10 genres based on audio features extracted from sound files.
 
 ## Overview
