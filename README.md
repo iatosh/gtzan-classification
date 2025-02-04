@@ -11,7 +11,7 @@ The scripts in this repository perform the following tasks:
 - **Data Preprocessing**: Prepares the GTZAN dataset for training, including data splitting and feature scaling (`scripts/data_preperation.py`).
 - **Dataset Augmentation**: Augments the dataset by splitting audio files into smaller segments (`scripts/dataset_augmentator.py`).
 - **Feature Extraction**: (`scripts/feature_extractor.py`) Extracts audio features from the GTZAN dataset.
-- **Model Training**: (`src/scripts/model_trainer.py`) Trains a neural network model for music genre classification.
+- **Model Training**: (`scripts/model_trainer.py`) Trains a neural network model for music genre classification.
 - **Model Evaluation**: (`scripts/model_evaluator.py`) Evaluates the trained model.
 - **Utilities**: Includes scripts for validating WAV files and trimming audio files (`scripts/wav_validator.py`, `scripts/wav_trimmer.py`).
 - **Main Script**: Orchestrates the entire process (`script/main.py`).
