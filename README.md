@@ -4,6 +4,8 @@
 
 This repository contains Python scripts for music genre classification using the [GTZAN dataset](https://huggingface.co/datasets/marsyas/gtzan). This project aims to classify music into 10 genres based on audio features extracted from sound files.
 
+This repository provides Python scripts for music genre classification using the [GTZAN dataset](https://huggingface.co/datasets/marsyas/gtzan).  It implements a neural network-based approach to classify music into 10 genres based on audio features.  The project emphasizes data preprocessing, augmentation, feature extraction, model training, and evaluation, all orchestrated through a main script for ease of use.  Utilizing 3-second audio clips and a specific neural network architecture, the model achieves a high accuracy of **91.66%**.  This repository serves as a practical guide and implementation for music genre classification tasks.
+
 ## Overview
 
 The scripts in this repository perform music genre classification using neural networks.  By using a dataset augmented to 3-second clips, a model with hidden layers of [256, 128, 64] and a dropout rate of 0.3 achieved an accuracy of **91.66%**.
