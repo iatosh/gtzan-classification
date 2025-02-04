@@ -1,5 +1,5 @@
 # gtzan-classification
-Music genre classification using Neural Network.
+Music genre classification based on GTZAN dataset. Only using Dence NN.
 
 Dataset: [GTZAN](https://huggingface.co/datasets/marsyas/gtzan)
 
