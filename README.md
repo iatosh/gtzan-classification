@@ -1,4 +1,4 @@
-# gtzan-classification
+# gtzan.torch
 Music genre classification based on GTZAN dataset. Using Pytorch.
 
 Dataset: [GTZAN](https://huggingface.co/datasets/marsyas/gtzan)
